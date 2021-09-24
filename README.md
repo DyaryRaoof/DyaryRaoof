@@ -1,6 +1,7 @@
+<img src="https://i.ibb.co/BBmqr9m/Dyary-Raoof-Bayz-A.png" alt="banner">
+
 
 <h2> Hi, I'm Dyary Rooaf</h2>
-<img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
 <p><em>Remote Full-stack web developer ready for adventure</em></p>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/dyaryraoof/)](https://www.linkedin.com/in/dyaryraoof/)
