@@ -17,8 +17,8 @@ const dyaryRaoof = {
   lookingFor: "Front-end developer" || "Full-stack web developer" || "Back-end developer",
   pronouns: ["he", "him"],
   code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Bootstrap],
-  askMeAbout: [ movies, walking, reading],
-  funFacts: ['I have 2+ years of  experience multiple programming languages like flutter, Swift and some angular']
+  askAboutMe: [ movies, walking, reading],
+  funFacts: ['I have 2+ years of  experience multiple programing languages like Flutter, Swift and some Angular']
 }
 ```
 ### This week I spent my time on:
