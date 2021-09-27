@@ -23,4 +23,4 @@ const dyaryRaoof = {
 ```
 ### This week I spent my time on:
 
-<img src="https://wakatime.com/share/@ab8b3fc6-c176-4b1e-9f03-a39ec5e60fdb/2eda2c73-168e-4f48-912d-e28646d8eea5.svg" width="50%">
+<img src="https://wakatime.com/share/@ab8b3fc6-c176-4b1e-9f03-a39ec5e60fdb/2eda2c73-168e-4f48-912d-e28646d8eea5.svg" width="70%">
