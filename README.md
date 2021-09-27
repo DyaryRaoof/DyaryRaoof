@@ -23,8 +23,4 @@ const dyaryRaoof = {
 ```
 ### This week I spent my time on>
 
-<!--START_SECTION:waka-->
-```text
-
-```
-<!--END_SECTION:waka-->
+<img src="https://wakatime.com/share/@ab8b3fc6-c176-4b1e-9f03-a39ec5e60fdb/aae56754-d653-4a98-8960-f228d7e3cf7e.svg" alt="time chart" width="50%">
