@@ -21,6 +21,6 @@ const dyaryRaoof = {
   funFacts: ['I have 2+ years of  experience multiple programming languages like flutter, Swift and some angular']
 }
 ```
-### This week I spent my time on>
+### This week I spent my time on:
 
-<img src="https://wakatime.com/share/@ab8b3fc6-c176-4b1e-9f03-a39ec5e60fdb/aae56754-d653-4a98-8960-f228d7e3cf7e.svg" alt="time chart" width="50%">
+<img src="https://wakatime.com/share/@ab8b3fc6-c176-4b1e-9f03-a39ec5e60fdb/2eda2c73-168e-4f48-912d-e28646d8eea5.svg" width="50%">
