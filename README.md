@@ -2,7 +2,7 @@
 
 
 <h2> Hi, I'm Dyary Rooaf</h2>
-<p><em>Remote Full-stack web developer ready for adventure</em></p>
+<p><em>Remote Full-stack web developer. Looking for my next job!</em></p>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/dyaryraoof/)](https://www.linkedin.com/in/dyaryraoof/)
 [![Twitter Badge](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fdyaryraoof)](https://twitter.com/dyaryraoof)
